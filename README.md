@@ -33,6 +33,13 @@ Get the latest version from **[Releases](../../releases/latest)**:
 - It doesn't host or share anyone's graphics. You download packs from their makers, and the credit stays with them.
 - It only goes online when you choose to send us a problem report. You see exactly what will be sent before it goes.
 
+## Removing it
+
+1. In the manager, press **Restore original** if you use a skin, and switch off the packs you no longer want.
+2. Quit the manager and delete it (Mac: drag it from Applications to the Bin; Windows: delete the folder).
+
+Your Football Manager is then exactly as it was before.
+
 ## Problems?
 
 Use **Report a problem** in the app.
